@@ -35,7 +35,7 @@ Dylan Miracle
 - [Mu editor](https://codewith.mu/)
 - ChromeOS: text and beagle term
 - [codekitty.py](https://github.com/MnCode-CodeKitty/codekitty)
-- `from codekitty import *`
+
 ```python
 print("Code Kitty v2.2 online")
 from codekitty import *
@@ -51,6 +51,7 @@ while True:
         go(.2)
         led("blue")
         sleep(.1)
+
 ```
 - REPL
 
