@@ -2,6 +2,8 @@
 
 Dylan Miracle
 
+![Code Kitty](ck22.jpg)
+
 ## The Problem
 
 - Kids need access to robotics and coding experiences that are not overly intimidating, but also are not single function, non-extensible toys.
@@ -32,6 +34,7 @@ Dylan Miracle
 - [Mu editor](https://codewith.mu/)
 - ChromeOS: text and beagle term
 - `import codekitty as ck`
+- REPL
 
 ## Events
 
