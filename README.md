@@ -1,5 +1,7 @@
 # Teaching CircuitPython with Code Kitty
 
+Dylan Miracle
+
 ## The Problem
 
 - Kids need access to robotics and coding experiences that are not overly intimidating, but also are not single function, non-extensible toys.
@@ -8,6 +10,7 @@
 
 ## [Code Kitty - the Organization](codekitty.org)
 
+- Brain child of Jill and Jason Woyak
 - Education non-profit ~17mos old
 - Mission to make a cheap robot that offers a real coding experience
 - All volunteer
@@ -17,6 +20,7 @@
 - [3D printed](https://www.thingiverse.com/thing:3059371)
 - Trinket M0
 - Open Source / Open Source Hardware
+- Curriculum, grades 2 and up
 
 ## [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/overview)
 
@@ -24,7 +28,8 @@
 - Runs on a variety of microcontrollers
 - Runs on major OSes (even Chrome)
 - Tons of documentation and projects
-- Mu editor
+- [Mu editor](https://codewith.mu/)
+- ChromeOS: text and beagle term
 - `import codekitty as ck`
 
 ## Events
