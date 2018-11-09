@@ -15,10 +15,11 @@ Dylan Miracle
 - Mission to make a cheap robot that offers a real coding experience
 - All volunteer
 
-## [Code Kitty - the Robot]
+## [Code Kitty - the Robot](https://www.thingiverse.com/thing:3059371)
 
-- [3D printed](https://www.thingiverse.com/thing:3059371)
+- 3D printed
 - Trinket M0
+- some servos, batteries, screws and a custom breakout board
 - Open Source / Open Source Hardware
 - Curriculum, grades 2 and up
 
