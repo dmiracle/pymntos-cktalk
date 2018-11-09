@@ -29,10 +29,12 @@ Dylan Miracle
 
 - Adafruit fork of MicroPython
 - Runs on a variety of microcontrollers
+- Insanely easy to get working
 - Runs on major OSes (even Chrome)
 - Tons of documentation and projects
 - [Mu editor](https://codewith.mu/)
 - ChromeOS: text and beagle term
+- [codekitty.py](https://github.com/MnCode-CodeKitty/codekitty)
 - `import codekitty as ck`
 - REPL
 
@@ -47,5 +49,5 @@ Dylan Miracle
 
 ## Future
 
-- Circuit Playground Express
+- [Circuit Playground Express](https://www.adafruit.com/product/3333)
 - Need more volunteers!
