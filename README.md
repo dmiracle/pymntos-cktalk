@@ -50,4 +50,5 @@ Dylan Miracle
 ## Future
 
 - [Circuit Playground Express](https://www.adafruit.com/product/3333)
+- Get better at CircuitPython
 - Need more volunteers!
